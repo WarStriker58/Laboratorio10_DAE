@@ -1,0 +1,38 @@
+/* =========================
+   CineSpoilerS - Global Styles
+   Dark minimal base
+========================= */
+
+:root {
+  /* Colors */
+  --bg: #0b0b10;
+  --surface: #141420;
+  --primary: #e50914;
+  --text: #ffffff;
+  --muted: #a1a1aa;
+
+  /* Spacing */
+  --radius: 12px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}

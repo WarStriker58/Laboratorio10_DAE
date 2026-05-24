@@ -48,7 +48,7 @@
 
 ### 3. Props en el componente creado
 
-![C3](imgs/C3_Ayala.png)
+![C3](imgs/C3_AyAla.png)
 
 ---
 
@@ -68,30 +68,30 @@
 
 ### 1. Proyecto limpio, renderizado y sin errores
 
-![C1](imgs/C1_Ayala.png)
+![C1](imgs/C1_Calderon.png)
 
 ---
 
 ### 2. Creación de componente con variables y uso
 
-![C2](imgs/C2_Ayala.png)
+![C2](imgs/C2_Calderon.png)
 
 ---
 
 ### 3. Props en el componente creado
 
-![C3](imgs/C3_Ayala.png)
+![C3](imgs/C3_Calderon.png)
 
 ---
 
 ### 4. Estado en el componente
 
-![C4](imgs/C4_Ayala.png)
+![C4](imgs/C4_Calderon.png)
 
 ---
 
 ### 5. Manejo de estado mediante eventos
 
-![C5](imgs/C5_Ayala.png)
+![C5](imgs/C5_Calderon.png)
 
 ---

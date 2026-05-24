@@ -1,9 +1,13 @@
+import { Card } from "./components/Card"
+
 function App() {
   return (
-    <div>
-      <h1>CineSpoilerS 🍿</h1>
-      <p>Proyecto base de e-commerce de tickets de cine</p>
-    </div>
+    <main>
+      <h1>CineSpoilers 🍿</h1>
+
+      <Card title="Sebastian" description="Frontend Developer" />
+      <Card title="Katherine" description="English Teacher" />
+    </main>
   )
 }
 
